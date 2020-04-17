@@ -1,5 +1,5 @@
 ### Robots
-This is a little app build base on React which consumes an API from https://jsonplaceholder.typicode.com/users
+This is a little app built base on React which consumes an API from https://jsonplaceholder.typicode.com/users
 
 
 ![screenshot](./Capture.PNG)
